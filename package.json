@@ -9,6 +9,7 @@
   "author": "Jainish Patel",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.36"
+    "mongodb": "^2.2.36",
+    "mongoose": "^4.13.17"
   }
 }
